@@ -9,7 +9,7 @@ This repo is for my Database Management task where I created a **Library Managem
 - This README to explain everything
 
 ## Tools I used:
-- MySQL Workbench / SQLiteStudio (you can use any SQL compiler)
+-  SQLiteStudio 
 - GitHub to upload my project
 
 ## How to use:
@@ -23,14 +23,8 @@ This repo is for my Database Management task where I created a **Library Managem
 - `er_diagram.png` → Screenshot of the ER diagram (if available)
 - `README.md` → This file 
 
-## Why I did this:
-This task was part of a learning exercise to understand:
-- How to design databases
-- How to use Primary & Foreign keys
-- How to define relationships between tables
 
 
 
 ---
 
-Thanks for checking it out! 😊
