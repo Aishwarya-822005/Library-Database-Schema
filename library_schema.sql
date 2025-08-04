@@ -42,10 +42,10 @@ INSERT INTO Borrow VALUES
 (1, 1, 1, '2025-08-01', '2025-08-10'),
 (2, 2, 2, '2025-08-02', NULL);
 
--- Select and view data
 SELECT b.title, a.name AS author FROM Books b JOIN Authors a ON b.author_id = a.author_id;
 
 SELECT m.name AS member, bk.title AS book, br.borrow_date, br.return_date
 FROM Borrow br
 JOIN Members m ON br.member_id = m.member_id
 JOIN Books bk ON br.book_id = bk.book_id;
+
