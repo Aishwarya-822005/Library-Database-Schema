@@ -21,8 +21,8 @@ This repo is for my Database Management task where I created a **Library Managem
 ## Files in this repo:
 - `library_schema.sql` → SQL code to create tables and relationships
 - `er_diagram.png` → Screenshot of the ER diagram (if available)
-- `README.md` → This file 
-
+- `README.md` → This file
+- `image.png`→ The source code and the output
 
 
 
